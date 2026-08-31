@@ -1,56 +1,120 @@
-<h1 align="center">Hi 👋, I'm VAIBHAV S.P.</h1>
-<h3 align="center">Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning</h3>
-
-## 🧰 Languages and Tools
-
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=py,java,c,cpp,html)
+<img src="./assets/profile.jpg" alt="VAIBHAV S.P." width="180" height="180" style="border-radius: 50%;">
+
+<h1>Hi 👋, I'm VAIBHAV S.P.</h1>
+
+<h3>
+CSE-AIML Student | AI/ML & Computer Vision | Software & IoT Developer
+</h3>
+
+<p>
+Building ideas into code ⚡ | Exploring AI, Computer Vision, Web Development & IoT
+</p>
 
 </div>
 
-## 🤝 Connect with me
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**
+- 🏫 **Vellore Institute of Technology, Andhra Pradesh**
+- 📅 Batch: **2024–2028**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning & Computer Vision**
+- 💻 Building practical projects using **Python, Java, C & C++**
+- 🌐 Exploring **Web Development & API Integration**
+- 🔌 Interested in **IoT, Arduino, Sensors & LoRa-based communication**
+- 🎨 Exploring **Video Editing, Colour Grading, 3D Modelling & Digital Design**
+- 🚀 Learning by building real-world technology solutions
+
+---
+
+## 🧠 What I Work With
+
+### 💻 Programming
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.p.vaibhav2007@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-s-p-251ba835) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav2206)
+![Python](https://skillicons.dev/icons?i=py)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![HTML](https://skillicons.dev/icons?i=html)
 
 </div>
 
-
+### 🤖 AI / Machine Learning
 
 <div align="center">
 
+![Python](https://skillicons.dev/icons?i=py)
 
-</div>```javascript
-const VAIBHAV = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Java", "C", "C++", "HTML", "API usage/integration", "MATLAB", "DaVinci Resolve", "Blender", "Artificial Intelligence", "Machine Learning", "Artificial Neural Networks (ANN)", "Computer Vision", "Image-based analysis", "Arduino", "Sensors", "LoRa-based communication"],
-    askMeAbout: ["Artificial Intelligence, Machine Learning, Computer Vision"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "AWS", "CI/CD"]
-    },
-    currentFocus: "[TO BE ADDED]",
-    funFact: "[TO BE ADDED]"
-};
-```
+**Artificial Intelligence • Machine Learning • Computer Vision • ANN • Image Analysis**
+
 </div>
 
+### 🌐 Web Development
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav2206&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![HTML](https://skillicons.dev/icons?i=html)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2206&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+</div>
 
+### 🔌 IoT & Embedded Systems
 
+<div align="center">
+
+![Arduino](https://skillicons.dev/icons?i=arduino)
+
+**Arduino • Sensors • LoRa-based Communication**
+
+</div>
+
+### 🎨 Creative Tools
+
+<div align="center">
+
+**DaVinci Resolve • Blender • Video Editing • Colour Grading • 3D Modelling**
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏗️ Concrete & Pavement Crack Detection
+
+AI/ML-based project focused on detecting cracks in concrete and pavement structures using:
+
+- Artificial Neural Networks
+- Computer Vision
+- Image-based analysis
+- Hybrid AI/ML approaches
+
+---
+
+### 🌾 Smart Agricultural Marketplace
+
+A digital marketplace concept designed to improve connections between farmers and buyers.
+
+```text
+Farmer Input
+      ↓
+Crop & Location Data
+      ↓
+Market Price Analysis
+      ↓
+Smart Buyer Matching
+      ↓
+Offer & Negotiation
+      ↓
+Deal & Payment
+      ↓
+Transport & Delivery Tracking
 
