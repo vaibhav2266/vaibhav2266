@@ -17,7 +17,7 @@
 
 </div>
 
-## 📊 Stats
+
 
 <div align="center">
 
@@ -43,12 +43,8 @@ const VAIBHAV = {
     funFact: "[TO BE ADDED]"
 };
 ```
+</div>
 
-## 👨‍💻 About Me
-
-Vaibhav S.P. is a Computer Science and Engineering student with a focus on Artificial Intelligence and Machine Learning. He possesses practical experience in applying technology to real-world problems, particularly in areas like computer vision and IoT. His projects reflect a strong commitment to innovation and problem-solving within various domains.
-
-📍 [TO BE ADDED] | 🏢 [TO BE ADDED]
 
 ## 📊 GitHub Stats
 
