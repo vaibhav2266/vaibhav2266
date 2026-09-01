@@ -1,120 +1,67 @@
+[README.md](https://github.com/user-attachments/files/31703653/README.md)
 <div align="center">
 
-<img src="./assets/profile.jpg" alt="VAIBHAV S.P." width="180" height="180" style="border-radius: 50%;">
+# Hi, I'm Vaibhav S.P. 👋
 
-<h1>Hi 👋, I'm VAIBHAV S.P.</h1>
-
-<h3>
-CSE-AIML Student | AI/ML & Computer Vision | Software & IoT Developer
-</h3>
-
-<p>
-Building ideas into code ⚡ | Exploring AI, Computer Vision, Web Development & IoT
-</p>
+### CSE (AI/ML) student | Computer Vision · IoT · Embedded Systems · Creative Tech
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+### 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**
-- 🏫 **Vellore Institute of Technology, Andhra Pradesh**
-- 📅 Batch: **2024–2028**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning & Computer Vision**
-- 💻 Building practical projects using **Python, Java, C & C++**
-- 🌐 Exploring **Web Development & API Integration**
-- 🔌 Interested in **IoT, Arduino, Sensors & LoRa-based communication**
-- 🎨 Exploring **Video Editing, Colour Grading, 3D Modelling & Digital Design**
-- 🚀 Learning by building real-world technology solutions
+- 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) @ VIT Andhra Pradesh — Batch 2024–2028
+- 🧠 Interested in applying AI/ML and embedded systems to real-world problems
+- 🛠 Currently building projects across computer vision, IoT communication, and agri-tech
+- 🎬 Also into video editing, colour grading, and 3D modelling on the side
 
----
+<br/>
 
-## 🧠 What I Work With
+### 🧩 Projects
 
-### 💻 Programming
+| Project | Focus |
+|:---|:---|
+| 🚗 Intelligent Smart Vehicle Shut-Off System | Arduino UNO, sensor-based safety |
+| 📡 Off-Grid Disaster Messaging App | LoRa, Bluetooth, wireless communication |
+| 🧱 Concrete & Pavement Crack Detection | ANN, Computer Vision, image analysis |
+| 🌾 Smart Agricultural Marketplace | Farmer-buyer matching, market price discovery |
 
-<div align="center">
+<br/>
 
-![Python](https://skillicons.dev/icons?i=py)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![HTML](https://skillicons.dev/icons?i=html)
+### 🛠 Tech Stack
 
-</div>
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 🤖 AI / Machine Learning
+**Web:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-<div align="center">
+**AI/ML & Vision:** ![ANN](https://img.shields.io/badge/-Neural%20Networks-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-![Python](https://skillicons.dev/icons?i=py)
+**IoT / Embedded:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![LoRa](https://img.shields.io/badge/-LoRa-1F6FEB?style=flat-square)
 
-**Artificial Intelligence • Machine Learning • Computer Vision • ANN • Image Analysis**
+**Tools:** ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
 
-</div>
+<br/>
 
-### 🌐 Web Development
+### 📊 GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhav2206&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2206&layout=compact&theme=radical&hide_border=true" height="165"/>
 
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![HTML](https://skillicons.dev/icons?i=html)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<br/><br/>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=vaibhav2206&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
-### 🔌 IoT & Embedded Systems
+<br/><br/>
 
-<div align="center">
+### 📫 Connect with Me
 
-![Arduino](https://skillicons.dev/icons?i=arduino)
+<a href="mailto:s.p.vaibhav2007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vaibhav-s-p-251ba835"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/vaibhav2206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-**Arduino • Sensors • LoRa-based Communication**
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vaibhav2206&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
-
-### 🎨 Creative Tools
-
-<div align="center">
-
-**DaVinci Resolve • Blender • Video Editing • Colour Grading • 3D Modelling**
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🏗️ Concrete & Pavement Crack Detection
-
-AI/ML-based project focused on detecting cracks in concrete and pavement structures using:
-
-- Artificial Neural Networks
-- Computer Vision
-- Image-based analysis
-- Hybrid AI/ML approaches
-
----
-
-### 🌾 Smart Agricultural Marketplace
-
-A digital marketplace concept designed to improve connections between farmers and buyers.
-
-```text
-Farmer Input
-      ↓
-Crop & Location Data
-      ↓
-Market Price Analysis
-      ↓
-Smart Buyer Matching
-      ↓
-Offer & Negotiation
-      ↓
-Deal & Payment
-      ↓
-Transport & Delivery Tracking
-
